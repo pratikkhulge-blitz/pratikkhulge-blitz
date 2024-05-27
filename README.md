@@ -34,7 +34,7 @@ Take a look at some of my notable projects:
 5. [MovieDB](https://github.com/pratikkhulge/MovieDb): This is a movie application that utilizes the MovieDB API to provide users with information about various movies and TV series. Users can explore movies by different genres, view the latest trending movies, check out upcoming releases, and mark their favorite movies.
 
    
-![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikkhulge&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=pratikkhulge&theme=dark)
+![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikkhulge-blitz&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=pratikkhulge-blitz&theme=dark)
 
 ## Let's Connect
 
