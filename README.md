@@ -20,7 +20,6 @@ Here are some of the technologies I work with:
 - **Frontend:** ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript&logoColor=white) ![Bootstrap.js](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=Bootstrap&logoColor=white) ![React.js](https://img.shields.io/badge/-React.js-blue?style=flat&logo=React&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white) 
 - **Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=Node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=flat&logo=Express)
 - **Databases:** ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=MongoDB&logoColor=white) ![xampp](https://img.shields.io/badge/-xampp-blue?style=flat&logo=xampp&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=white)
-- **DevOps:** ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat&logo=Kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=Amazon-AWS&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-blue?style=flat&logo=Microsoft-Azure&logoColor=white)
 - **Tools:** ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=Git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=Visual-Studio-Code&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat&logo=Postman&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
 
 
@@ -33,6 +32,8 @@ Take a look at some of my notable projects:
 3. [Newss](https://github.com/pratikkhulge/Newss): NewsBolt is a prototype API-based web application offering users access to news from various countries, languages, and topics, providing a comprehensive platform for diverse news consumption.
 4. [pFood](https://github.com/pratikkhulge/pFood): pFood is a vibrant web application offering an immersive dining experience with rich styles, animations, and an array of interactive features.
 5. [MovieDB](https://github.com/pratikkhulge/MovieDb): This is a movie application that utilizes the MovieDB API to provide users with information about various movies and TV series. Users can explore movies by different genres, view the latest trending movies, check out upcoming releases, and mark their favorite movies.
+
+   
 ![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratikkhulge&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=pratikkhulge&theme=dark)
 
 ## Let's Connect
